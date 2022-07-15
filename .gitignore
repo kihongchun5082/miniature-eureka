@@ -1,0 +1,3 @@
+# Git ignore
+bin/            # binary files
+goorm.manifest  # Goorm IDE manifest file
